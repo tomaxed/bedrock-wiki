@@ -249,7 +249,7 @@ The `minecraft:food` must have the `minecraft:use_modifiers` component in order 
 "minecraft:food":{
     "can_always_eat": false,
     "nutrition" : 3,
-    "saturation_modifier": "0.6",
+    "saturation_modifier": 0.6,
     "using_converts_to": "bowl"
 }
 ```
